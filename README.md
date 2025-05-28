@@ -2,13 +2,6 @@
 
 A front-end application scaffolded with [Vite](https://vitejs.dev), designed to interface with OpenAI for a financial operation like a withdrawal or transfer
 
-## 🚀 Features
-
-* ⚡ Powered by Vite for lightning-fast development
-* 🧠 Integrates with AI services or tools
-* 🔧 Modular and extensible architecture
-* 🎯 Built for modern browsers using ES modules
-
 ## 📦 Installation
 
 Clone the repository and install dependencies:
